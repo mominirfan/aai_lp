@@ -4,6 +4,11 @@
   border-color:#007bff;
 }
 
+.border-bottom-primary{
+  border-bottom: solid 1px;
+  border-color:#007bff;
+  background: white;
+}
 
 
 .border-warning{
